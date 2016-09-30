@@ -57,16 +57,16 @@ body{
      margin:30% 0% 0% 0%;  
 }
 .quadros{
-    margin:45% 20% 0% 20%;
+    margin:45% 20% 0% 10%;
 
 }
 
 .func1{
     text-align: center;
     border-radius: 3px;
-    height: 27%;
-    width: 17%;
-    margin: -40% 10% 0% 4%;
+    height: 40%;
+    width: 20%;
+    margin: -40% 10% 0% 1%;
 
     background-color: grey;
     position: absolute;
@@ -77,9 +77,9 @@ body{
     background-color:#006666;
     text-align: center;
     border-radius: 3px;
-    height: 27%;
-    width: 17%;
-    margin: -40% 10% 0% 22%;
+    height: 40%;
+    width: 20%;
+    margin: -40% 10% 0% 28%;
     position:absolute;
     color:#fff;    
 }
@@ -88,9 +88,9 @@ body{
     background-color:#006666;
     text-align: center;
     border-radius: 3px;
-    height: 27%;
-    width: 17%;
-    margin: -40% 10% 0% 40%;
+    height: 40%;
+    width: 20%;
+    margin: -40% 10% 0% 55%;
     position:absolute;
     color:#fff;    
 }
@@ -106,7 +106,7 @@ body{
 
 .rodape{
     margin:5% 0px 0px 0px;
-    height: 150px;
+    height: 450px;
     width: 100%;
     background-color:#242424; 
     backface-visibility:hidden;
@@ -129,16 +129,25 @@ body{
 .dado1{
     text-align: center;
     color:white;
-    height:20%;
+    height:15%;
     width: 20%;
-    margin: 0% 0% 0% 1%;
+    margin: 2% 0% 0% 10%;
 }
 .dado2{
     text-align: center;
     color:white;
-    height: 10%;
+    height:15%;
     width: 20%;
-    margin: 0% 0% 0% 25%;
-    background-color: red;
+    margin: -4% 0% 0% 40%;
+}
+.dado3{
+    text-align: center;
+    color:white;
+    height:15%;
+    width: 20%;
+    margin: -4% 0% 0% 70%;
+}
+.fr-img{
+    border-radius: 100%;
 }
 
