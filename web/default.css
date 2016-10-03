@@ -8,7 +8,7 @@ and open the template in the editor.
     Author     : mgrosa
 */
 body{
-    background-color:#ggg;
+    background-color:#fff;
 }
 .btn-login {    
     float: left;
@@ -51,10 +51,10 @@ body{
     text-align: center;
     color:#006666;
     font-size: 20px;
-      
+
 }
 .div-quadros-titulo{
-     margin:30% 0% 0% 0%;  
+    margin:30% 0% 0% 0%;  
 }
 .quadros{
     margin:45% 20% 0% 10%;
@@ -63,36 +63,41 @@ body{
 
 .func1{
     text-align: center;
-    border-radius: 3px;
-    height: 40%;
-    width: 20%;
-    margin: -40% 10% 0% 1%;
-
-    background-color: grey;
+    border-radius: 4px;
+   height: 38%;
+    width: 23%;
+    margin: -35% 15% 0% 0%;
+    background-color:#99ff99;
     position: absolute;
-    color: red;
+    color: white;
 }
 
+
 .func2{
-    background-color:#006666;
+    background-color:#9999ff;
     text-align: center;
     border-radius: 3px;
-    height: 40%;
-    width: 20%;
-    margin: -40% 10% 0% 28%;
+    height: 38%;
+    width: 23%;
+    margin: -35% 10% 0% 25%;
     position:absolute;
     color:#fff;    
 }
 
 .func3{
-    background-color:#006666;
+
     text-align: center;
-    border-radius: 3px;
-    height: 40%;
-    width: 20%;
-    margin: -40% 10% 0% 55%;
-    position:absolute;
-    color:#fff;    
+    border-radius: 4px;
+    height: 38%;
+    width: 23%;
+    margin: -35% 10% 0% 50%;
+    background-color:#ff9999;
+    position: absolute;
+    color: white; 
+
+}
+.img-func{
+    margin-bottom: 0px;
 }
 
 
