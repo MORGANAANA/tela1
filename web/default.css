@@ -26,6 +26,7 @@ body{
 }
 .btn-login hover{
     background-color: #fff;
+    font-family:serif;
 }
 .cabecalho{
     top:0%;
@@ -54,50 +55,57 @@ body{
 
 }
 .div-quadros-titulo{
-    margin:30% 0% 0% 0%;  
+    margin:40% 0% 2% 0%;  
 }
 .quadros{
-    margin:45% 20% 0% 10%;
+    margin:50% 20% 0% 5%;
 
 }
 
 .func1{
     text-align: center;
     border-radius: 4px;
-   height: 38%;
-    width: 23%;
+    height: 30%;
+    width: 28%;
     margin: -35% 15% 0% 0%;
-    background-color:#99ff99;
+    background-color:#63aac6;
     position: absolute;
     color: white;
 }
-
+.img1-func{
+    margin:33% 0% 0% 0%;
+    opacity: 0.7;
+}
 
 .func2{
-    background-color:#9999ff;
+    background-color:#99ccff;
     text-align: center;
     border-radius: 3px;
-    height: 38%;
-    width: 23%;
-    margin: -35% 10% 0% 25%;
+    height: 30%;
+    width: 28%;
+    margin: -35% 10% 0% 30%;
     position:absolute;
     color:#fff;    
 }
 
+.img2-func{
+    margin:45% 0% 0% 0%;
+    opacity: 0.7;
+}
 .func3{
 
     text-align: center;
     border-radius: 4px;
-    height: 38%;
-    width: 23%;
-    margin: -35% 10% 0% 50%;
-    background-color:#ff9999;
+      height: 30%;
+    width: 28%;
+    margin: -35% 10% 0% 60%;
+    background-color:#63aac6;
     position: absolute;
     color: white; 
-
 }
-.img-func{
-    margin-bottom: 0px;
+.img3-func{
+    margin:43% 0% 0% 0%;
+    opacity: 0.7;
 }
 
 
@@ -136,21 +144,21 @@ body{
     color:white;
     height:15%;
     width: 20%;
-    margin: 2% 0% 0% 10%;
+    margin: 3% 0% 0% 10%;
 }
 .dado2{
     text-align: center;
     color:white;
     height:15%;
     width: 20%;
-    margin: -4% 0% 0% 40%;
+    margin: -5% 0% 0% 40%;
 }
 .dado3{
     text-align: center;
     color:white;
     height:15%;
     width: 20%;
-    margin: -4% 0% 0% 70%;
+    margin: -5% 0% 0% 70%;
 }
 .fr-img{
     border-radius: 100%;
