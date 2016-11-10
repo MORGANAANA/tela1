@@ -28,16 +28,29 @@ body{
     background-color: #fff;
     font-family:serif;
 }
+
+.centro{
+    margin: 30% 50% 0% 30%;
+    padding: 10px 20px 0px 50px;
+}
+
+.imgCentral{
+    height: 60%;
+    width: 70%;    
+}
+
+
+
 .cabecalho{
     top:0%;
-    background-image: url('bg2.jpg');
+    background-image: url('bg3.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    width: 100%;
-    height:50%;
+    width: 80%;
+    height:40%;
     position:absolute; 
     border:none;
-    opacity: 0.7;
+    opacity: 0.4;
     color:greenyellow;
 
 }
@@ -61,55 +74,6 @@ body{
     margin:50% 20% 0% 5%;
 
 }
-
-.func1{
-    text-align: center;
-    border-radius: 4px;
-    height: 30%;
-    width: 28%;
-    margin: -35% 15% 0% 0%;
-    background-color:#63aac6;
-    position: absolute;
-    color: white;
-}
-.img1-func{
-    margin:33% 0% 0% 0%;
-    opacity: 0.7;
-}
-
-.func2{
-    background-color:#99ccff;
-    text-align: center;
-    border-radius: 3px;
-    height: 30%;
-    width: 28%;
-    margin: -35% 10% 0% 30%;
-    position:absolute;
-    color:#fff;    
-}
-
-.img2-func{
-    margin:45% 0% 0% 0%;
-    opacity: 0.7;
-}
-.func3{
-
-    text-align: center;
-    border-radius: 4px;
-      height: 30%;
-    width: 28%;
-    margin: -35% 10% 0% 60%;
-    background-color:#63aac6;
-    position: absolute;
-    color: white; 
-}
-.img3-func{
-    margin:43% 0% 0% 0%;
-    opacity: 0.7;
-}
-
-
-
 
 .quadro-titulo{
     text-align: center;
